@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+
 <!--
 **YusufOztan/yusufoztan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Connect with me: 
+</table>
+<a href="https://www.linkedin.com/in/yusuf-%C3%B6ztan-4397211ba/">
+    <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
+</a>
+</table>
