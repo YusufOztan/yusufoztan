@@ -1,26 +1,22 @@
-### Hi there 👋
+### Hi there 👋 I'm Yusuf
 
 
-
-<!--
-**YusufOztan/yusufoztan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning **Java, Spring, React.js,**
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about **Python, Pandas,Scikit-learn**
 - 📫 How to reach me: **oztanyusuf00@gmail.com**
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
 
 ### Connect with me: 
 </table>
 <a href="https://www.linkedin.com/in/yusuf-%C3%B6ztan-4397211ba/">
     <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
+</a>
+<a href="https://www.instagram.com/yusuf.oztan/">
+    <img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/instagram_icon-instagram_buttoninstegram-512.png"/>
+</a>
+<a href="https://discordapp.com/users/.oztan">
+    <img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png"/>
 </a>
 </table>
 
